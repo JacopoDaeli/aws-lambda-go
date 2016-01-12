@@ -9,6 +9,7 @@ GOOS=linux GOARCH=amd64 go build hellowho.go
 ```
 
 ### Create a AWS Lambda Deployment Package
+First of all
 ```
 ./build_zip
 ```
